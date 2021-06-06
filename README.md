@@ -1,6 +1,6 @@
 ## Welcome to FastAUR
 
-```
+```bash
 curl -sSL https://bit.ly/fastaur | bash
 ```
 
